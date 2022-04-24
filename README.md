@@ -1,8 +1,8 @@
 ---
-title: Uspppm Demo
-emoji: 🐨
-colorFrom: blue
-colorTo: green
+title: U.S. Patent Phrase to Phrase Matching Demo
+emoji: 📜
+colorFrom: gray
+colorTo: purple
 sdk: gradio
 sdk_version: 2.9.4
 app_file: app.py

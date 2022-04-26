@@ -36,7 +36,8 @@ iface = gr.Interface(
     "Similarity scores are between 0 and 1, higher scores mean higher similarrity, and scores "
     "are computed as the cosine similarity of embeddings produced by the AI-Growth-Lab/PatentSBERTa SentenceTransformer model.",
     article="Examples are taken from the *Google Patent Phrase Similarity Dataset* used in the "
-    "['U.S. Patent Phrase to Phrase Matching' Kaggle competition](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/overview).",
+    "['U.S. Patent Phrase to Phrase Matching' Kaggle competition](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/overview). "
+    "The code for this app his available on [GitHub](https://github.com/JungeAlexander/uspppm-demo).",
 )
 
 if __name__ == "__main__":
